@@ -1,5 +1,7 @@
 # Awesome-Lesson-Planning
 
+![Awesome Lesson Planning Banner](assets/banner.svg)
+
 ## Similar Projects to Lesson Planning Platforms
 
 **Lesson Planning Platforms** help teachers create, organize, schedule, and share structured lesson plans, units, and curricula. Features often include calendars, standards alignment, resource attachment, collaboration, and sometimes integration with learning management systems (LMS). Leading commercial tools include PlanbookEdu, Chalk, Common Curriculum, Toddle, TeacherPlanner, Planboard, Otus, Google Classroom, Seesaw, and itslearning.
