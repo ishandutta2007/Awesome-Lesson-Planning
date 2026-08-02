@@ -8,15 +8,19 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[PlanbookEdu](https://www.planbookedu.com/)** — Popular digital lesson planner focused on simple, calendar-based planning for teachers.
-- **[Chalk](https://www.chalk.com/)** / Planboard — Intuitive lesson planning tool with calendar views and sharing features (Planboard is often associated with Chalk).
-- **[Common Curriculum](https://www.commoncurriculum.com/)** — Collaborative lesson planning and curriculum design platform with classroom site features.
-- **[Toddle](https://www.toddleapp.com/)** — All-in-one platform for planning, assessment, and portfolio work, popular in IB and progressive schools.
-- **[TeacherPlanner](https://www.teacherplanner.com/)** and similar dedicated teacher planner apps — Digital planners designed specifically for educators’ scheduling and lesson needs.
-- **[Otus](https://otus.com/)** — Learning and assessment platform that includes planning and data tools for teachers.
-- **[Google Classroom](https://classroom.google.com/)** — Free class management tool that supports assignment and content organization (often used alongside Google Docs/Sheets for planning).
-- **[Seesaw](https://web.seesaw.me/)** — Student-centered platform with strong portfolio and activity features, used by many elementary teachers for planning and delivery.
-- **[itslearning](https://itslearning.com/)** — Learning platform with planning, curriculum, and collaboration tools used in K-12 and higher education.
+
+| Platform | Description | Pricing & Free Tier Limits |
+| :--- | :--- | :--- |
+| **[PlanbookEdu](https://www.planbookedu.com/)** | Popular digital lesson planner focused on simple, calendar-based planning for teachers. | **Free** (Basic features; no exporting, copying, or collaboration) / **Premium**: $30/year |
+| **[Chalk](https://www.chalk.com/)** / Planboard | Intuitive lesson planning tool with calendar views and sharing features. | **Free** for individual teachers / **Chalk Gold**: $9/month or $99/year |
+| **[Common Curriculum](https://www.commoncurriculum.com/)** | Collaborative lesson planning and curriculum design platform. | **Free** (Basic plan for individual planning) / **Cc Pro**: $5.59/month or $71.88/year |
+| **[Toddle](https://www.toddleapp.com/)** | All-in-one platform for planning, assessment, and portfolio work. | **No Free Tier** (School-wide subscription only) / **Custom Quote** |
+| **[TeacherPlanner](https://www.teacherplanner.com/)** | Digital planners designed specifically for educators’ scheduling and lesson needs. | **14-day Free Trial** / **Paid Subscription** |
+| **[Otus](https://otus.com/)** | Learning and assessment platform with planning and data tools. | **No Free Tier** / **Custom Quote** |
+| **[Google Classroom](https://classroom.google.com/)** | Class management tool for assignment and content organization. | **Free** (Google Workspace for Education Fundamentals) / Paid domain-level upgrades |
+| **[Seesaw](https://web.seesaw.me/)** | Student-centered portfolio and activity platform. | **Free** (Seesaw Starter: 1 class, 35 students, 35 activities) / Paid school/district plans via **Custom Quote** |
+| **[itslearning](https://itslearning.com/)** | Learning platform with planning, curriculum, and collaboration tools. | **No Free Tier** (Free demo available) / **Custom Quote** |
+
 
 ## 🔓 Open-Source Software
 
