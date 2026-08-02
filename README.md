@@ -26,19 +26,17 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Dedicated & Lightweight Lesson Planners
-- **[School Planner](https://github.com/holger-dev/schoolplanner)** — Nextcloud app designed for teachers to plan courses, structure lessons (with topics, goals, markdown descriptions), manage recurring lessons, and optionally publish content for students.
-- **[Teacher Planner (Obsidian)](https://github.com/nsderred/teacher-planner-obsidian)** — Open-source Obsidian plugin that turns a Markdown vault into a full academic planner with timetables, periods, lessons, directed time tracking, and notes — fully local and private.
-- **GegoK12 Lesson Plan Module** — Part of the open-source GegoK12 school ERP (MIT). Provides structured, curriculum-aligned lesson planning, syllabus tracking, and sharing within a broader school management system.
-- Various AI-assisted and Markdown-based lesson planner projects on GitHub that generate outlines, slides, or structured plans using LLMs.
 
-### Full Open-Source LMS & School Platforms (with Planning Capabilities)
-- **[Moodle](https://github.com/moodle/moodle)** — The most widely used open-source LMS. Highly customizable; teachers can structure courses, topics, activities, and resources in a way that supports detailed lesson and unit planning.
-- **[Canvas LMS](https://github.com/instructure/canvas-lms)** — Modern open-source LMS (open-core model) with clean course organization, modules, and planning-friendly structures.
-- **[Open edX](https://github.com/openedx)** — Scalable open-source platform originally from MIT/Harvard; strong for structured course and curriculum design.
-- **[Gibbon](https://gibbonedu.org/)** — Flexible open-source school platform that supports planning, teaching, and assessment workflows.
-- **[OpenSIS](https://github.com/OS4ED/openSIS)** — Open-source student information and school management system that includes teacher tools for planning and grade management.
-- **[Chamilo](https://github.com/chamilo/chamilo-lms)** — Lightweight, user-friendly open-source LMS suitable for course and lesson organization.
+- **[Open edX](https://github.com/openedx)** [![GitHub stars](https://img.shields.io/github/stars/openedx/edx-platform?style=social&color=white)](https://github.com/openedx/edx-platform/stargazers) — Scalable open-source platform originally from MIT/Harvard; strong for structured course and curriculum design.
+- **[Moodle](https://github.com/moodle/moodle)** [![GitHub stars](https://img.shields.io/github/stars/moodle/moodle?style=social&color=white)](https://github.com/moodle/moodle/stargazers) — The most widely used open-source LMS. Highly customizable; teachers can structure courses, topics, activities, and resources in a way that supports detailed lesson and unit planning.
+- **[Canvas LMS](https://github.com/instructure/canvas-lms)** [![GitHub stars](https://img.shields.io/github/stars/instructure/canvas-lms?style=social&color=white)](https://github.com/instructure/canvas-lms/stargazers) — Modern open-source LMS (open-core model) with clean course organization, modules, and planning-friendly structures.
+- **[Chamilo](https://github.com/chamilo/chamilo-lms)** [![GitHub stars](https://img.shields.io/github/stars/chamilo/chamilo-lms?style=social&color=white)](https://github.com/chamilo/chamilo-lms/stargazers) — Lightweight, user-friendly open-source LMS suitable for course and lesson organization.
+- **[Gibbon](https://gibbonedu.org/)** [![GitHub stars](https://img.shields.io/github/stars/GibbonEdu/core?style=social&color=white)](https://github.com/GibbonEdu/core/stargazers) — Flexible open-source school platform that supports planning, teaching, and assessment workflows.
+- **[OpenSIS](https://github.com/OS4ED/openSIS)** [![GitHub stars](https://img.shields.io/github/stars/OS4ED/openSIS?style=social&color=white)](https://github.com/OS4ED/openSIS/stargazers) — Open-source student information and school management system that includes teacher tools for planning and grade management.
+- **[GegoK12 Lesson Plan Module](https://github.com/Gego-K12/gegok12)** [![GitHub stars](https://img.shields.io/github/stars/Gego-K12/gegok12?style=social&color=white)](https://github.com/Gego-K12/gegok12/stargazers) — Part of the open-source GegoK12 school ERP (MIT). Provides structured, curriculum-aligned lesson planning, syllabus tracking, and sharing within a broader school management system.
+- **[School Planner](https://github.com/holger-dev/schoolplanner)** [![GitHub stars](https://img.shields.io/github/stars/holger-dev/schoolplanner?style=social&color=white)](https://github.com/holger-dev/schoolplanner/stargazers) — Nextcloud app designed for teachers to plan courses, structure lessons (with topics, goals, markdown descriptions), manage recurring lessons, and optionally publish content for students.
+- **[Teacher Planner (Obsidian)](https://github.com/nsderred/teacher-planner-obsidian)** [![GitHub stars](https://img.shields.io/github/stars/nsderred/teacher-planner-obsidian?style=social&color=white)](https://github.com/nsderred/teacher-planner-obsidian/stargazers) — Open-source Obsidian plugin that turns a Markdown vault into a full academic planner with timetables, periods, lessons, directed time tracking, and notes — fully local and private.
+- Various AI-assisted and Markdown-based lesson planner projects on GitHub that generate outlines, slides, or structured plans using LLMs.
 
 ### Supporting Tools & Approaches
 - **Nextcloud** + education apps — Many teachers use Nextcloud (open-source file sync and collaboration) together with notes, calendars, and apps like School Planner.
