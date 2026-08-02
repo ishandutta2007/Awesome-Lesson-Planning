@@ -9,17 +9,19 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 ## 🏢 SaaS / Hosted Platforms
 
 
-| Platform | Description | Pricing & Free Tier Limits |
-| :--- | :--- | :--- |
-| **[PlanbookEdu](https://www.planbookedu.com/)** | Popular digital lesson planner focused on simple, calendar-based planning for teachers. | **Free** (Basic features; no exporting, copying, or collaboration) / **Premium**: $30/year |
-| **[Chalk](https://www.chalk.com/)** / Planboard | Intuitive lesson planning tool with calendar views and sharing features. | **Free** for individual teachers / **Chalk Gold**: $9/month or $99/year |
-| **[Common Curriculum](https://www.commoncurriculum.com/)** | Collaborative lesson planning and curriculum design platform. | **Free** (Basic plan for individual planning) / **Cc Pro**: $5.59/month or $71.88/year |
-| **[Toddle](https://www.toddleapp.com/)** | All-in-one platform for planning, assessment, and portfolio work. | **No Free Tier** (School-wide subscription only) / **Custom Quote** |
-| **[TeacherPlanner](https://www.teacherplanner.com/)** | Digital planners designed specifically for educators’ scheduling and lesson needs. | **14-day Free Trial** / **Paid Subscription** |
-| **[Otus](https://otus.com/)** | Learning and assessment platform with planning and data tools. | **No Free Tier** / **Custom Quote** |
-| **[Google Classroom](https://classroom.google.com/)** | Class management tool for assignment and content organization. | **Free** (Google Workspace for Education Fundamentals) / Paid domain-level upgrades |
-| **[Seesaw](https://web.seesaw.me/)** | Student-centered portfolio and activity platform. | **Free** (Seesaw Starter: 1 class, 35 students, 35 activities) / Paid school/district plans via **Custom Quote** |
-| **[itslearning](https://itslearning.com/)** | Learning platform with planning, curriculum, and collaboration tools. | **No Free Tier** (Free demo available) / **Custom Quote** |
+
+| Platform | Description | Pricing & Free Tier Limits | Company Size (Est. Revenue / Valuation) |
+| :--- | :--- | :--- | :--- |
+| **[Google Classroom](https://classroom.google.com/)** | Class management tool for assignment and content organization. | **Free** (Google Workspace for Education Fundamentals) / Paid domain-level upgrades | ~$307B Revenue (Parent Alphabet) / ~$2T Valuation |
+| **[Seesaw](https://web.seesaw.me/)** | Student-centered portfolio and activity platform. | **Free** (Seesaw Starter: 1 class, 35 students, 35 activities) / Paid school/district plans via **Custom Quote** | ~$50M - $60M Revenue / $1B+ Valuation |
+| **[Toddle](https://www.toddleapp.com/)** | All-in-one platform for planning, assessment, and portfolio work. | **No Free Tier** (School-wide subscription only) / **Custom Quote** | ~$13M - $14M Revenue / ~$100M Valuation |
+| **[Chalk](https://www.chalk.com/)** / Planboard | Intuitive lesson planning tool with calendar views and sharing features. | **Free** for individual teachers / **Chalk Gold**: $9/month or $99/year | ~$6.8M Revenue |
+| **[Otus](https://otus.com/)** | Learning and assessment platform with planning and data tools. | **No Free Tier** / **Custom Quote** | ~$5.4M Revenue / ~$17.3M Valuation |
+| **[itslearning](https://itslearning.com/)** | Learning platform with planning, curriculum, and collaboration tools. | **No Free Tier** (Free demo available) / **Custom Quote** | ~$4.7M Revenue |
+| **[PlanbookEdu](https://www.planbookedu.com/)** | Popular digital lesson planner focused on simple, calendar-based planning for teachers. | **Free** (Basic features; no exporting, copying, or collaboration) / **Premium**: $30/year | ~$171,000 Revenue |
+| **[TeacherPlanner](https://www.teacherplanner.com/)** | Digital planners designed specifically for educators’ scheduling and lesson needs. | **14-day Free Trial** / **Paid Subscription** | <$150,000 Revenue (Est.) |
+| **[Common Curriculum](https://www.commoncurriculum.com/)** | Collaborative lesson planning and curriculum design platform. | **Free** (Basic plan for individual planning) / **Cc Pro**: $5.59/month or $71.88/year | <$100,000 Revenue (Est.) |
+
 
 
 ## 🔓 Open-Source Software
