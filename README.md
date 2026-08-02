@@ -1,8 +1,11 @@
-# Awesome-Lesson-Planning
+# Awesome Lesson Planning — Curated List of Lesson Planners, School ERPs, & LMS Platforms
 
 ![Awesome Lesson Planning Banner](assets/banner.svg)
 
+Welcome to the ultimate curated directory of **lesson planning platforms**, **digital teacher planners**, **curriculum design software**, and **open-source learning management systems (LMS)**. This list helps educators, schools, and software developers find the best hosted SaaS and free open-source alternatives to streamline academic workflows.
+
 ## 🔍 Similar Projects to Lesson Planning Platforms
+
 
 **Lesson Planning Platforms** help teachers create, organize, schedule, and share structured lesson plans, units, and curricula. Features often include calendars, standards alignment, resource attachment, collaboration, and sometimes integration with learning management systems (LMS). Leading commercial tools include PlanbookEdu, Chalk, Common Curriculum, Toddle, TeacherPlanner, Planboard, Otus, Google Classroom, Seesaw, and itslearning.
 
