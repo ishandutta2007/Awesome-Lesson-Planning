@@ -2,7 +2,7 @@
 
 ![Awesome Lesson Planning Banner](assets/banner.svg)
 
-## Similar Projects to Lesson Planning Platforms
+## 🔍 Similar Projects to Lesson Planning Platforms
 
 **Lesson Planning Platforms** help teachers create, organize, schedule, and share structured lesson plans, units, and curricula. Features often include calendars, standards alignment, resource attachment, collaboration, and sometimes integration with learning management systems (LMS). Leading commercial tools include PlanbookEdu, Chalk, Common Curriculum, Toddle, TeacherPlanner, Planboard, Otus, Google Classroom, Seesaw, and itslearning.
 
@@ -40,12 +40,12 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 - **[Teacher Planner (Obsidian)](https://github.com/nsderred/teacher-planner-obsidian)** [![GitHub stars](https://img.shields.io/github/stars/nsderred/teacher-planner-obsidian?style=social&color=white)](https://github.com/nsderred/teacher-planner-obsidian/stargazers) — Open-source Obsidian plugin that turns a Markdown vault into a full academic planner with timetables, periods, lessons, directed time tracking, and notes — fully local and private.
 - Various AI-assisted and Markdown-based lesson planner projects on GitHub that generate outlines, slides, or structured plans using LLMs.
 
-### Supporting Tools & Approaches
+### 🛠️ Supporting Tools & Approaches
 - **Nextcloud** + education apps — Many teachers use Nextcloud (open-source file sync and collaboration) together with notes, calendars, and apps like School Planner.
 - Markdown-based systems (Obsidian, Logseq, or plain Git repositories) combined with templates for long-term curriculum and lesson archives.
 - Open educational resource (OER) platforms and curriculum repositories that can be adapted into local planning workflows.
 
-### Typical Open-Source Stack
+### 📋 Typical Open-Source Stack
 1. **Core planning** — School Planner (Nextcloud), Obsidian Teacher Planner, or GegoK12
 2. **Course delivery & structure** — Moodle, Canvas LMS, or Open edX
 3. **Resource storage & collaboration** — Nextcloud or a Git-based Markdown vault
@@ -55,11 +55,11 @@ This combination gives teachers full ownership of their plans, no subscription f
 
 ---
 
-**How to contribute**  
+**🤝 How to contribute**  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects related to lesson planning, curriculum design, teacher planners, or education platforms with strong planning features.
 
-**License**  
+**📄 License**  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — open tools help teachers focus more on teaching and less on proprietary software! 📚
